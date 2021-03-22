@@ -1,0 +1,50 @@
+To Do:
+Fonts aus Stylesheet löschen
+ungebrauchte klassen löschen(article)
+klasse article 4 in article umbenennen
+Ordner aufräumen
+ungenutzte bilder löschen
+benutzte bilder ohne zahlen benennen
+
+Format Infos
+
+Hintergrundfarbe: #99d6ff
+Mögliche Schriftarten:
+Amatic SC
+Fredericka the Great
+Rubik
+
+Farben:
+Impressum frabe #000066 schrift weiß
+HIntergrund #e5e5ff
+Artikel frabe weiß
+dunlkleres weiß #f7f7f7
+Heading #1aa3ff
+ramen merke: #0066cc
+farbe überschrift merke: #1aa3ff
+
+Dateinamen:
+index.html --> Startseite
+gloablisierung.html --> Globalisierung: Was ist das?
+post.html --> Post
+telefon.html --> Telefonie
+funk.html --> Rundfunk und Fernsehen
+internet.html --> Internet
+mitellandkanal.html --> Mittellandkanal
+bank.html --> Bankautomat
+autohaus.html --> Autohaus Opitz
+np.html --> Supermarkt -- NP
+
+Fotos:
+
+Vincent:
+Postkasten
+Satelitenschüssel
+Mobilfunkmast
+Mittellandkanal
+Bankautomat
+Autohaus Opitz
+NP
+
+Isabel:
+Telefon
