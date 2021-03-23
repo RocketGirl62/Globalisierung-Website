@@ -38,16 +38,13 @@ h2 {
     background-color: #f7f7f7;
 }
 .articlepicture {
-   /*padding: 0px 25% 0px 25%;*/
+    padding: 0px 20% 0px 20%;
 }
 .articlepicture2 {
     padding: 0px 15% 0px 15%;
 }
 .articlepicture3 {
     padding: 0px 28% 0px 28%;
-}
-.articlepicture4 {
-    padding: 0px 20% 0px 20%;
 }
 p {
     font-size: 18px;
@@ -106,16 +103,6 @@ li  {
 }
 .schmuckbild2 {
     margin: 20px 0px 0px 0px;
-}
-.merke {
-    border: 10px solid #0066cc
-}
-.merkeheading {
-    font-family: 'Fredericka the Great', cursive;
-    color: #1aa3ff;
-}
-.merkeinhalt {
-    font-family: 'Amatic SC', cursive;
 }
 .impressumabsatz {
     margin: 5px 0px 5px 0px;
